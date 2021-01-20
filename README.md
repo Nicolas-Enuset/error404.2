@@ -27,7 +27,7 @@ en utilisat git, HTML et CSS
 	
 	*mettre le lien de cette page dans le README
 
-<a href="file:///C:/Users/Cassandre/404.2/error404.2/index.html">lien de la page</a>
+![lien de la page](file:///C:/Users/Cassandre/404.2/error404.2/index.html)
 
 <h2>De qui</h2>
 
