@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: darkgrey;
+}
+
+h1{
+    font-size: 90px;
+    color: gold;
+}
+
+p{
+    color: yellow;
+}
+
+a{
+    font-size: 20px;
+    color: brown;
+}
