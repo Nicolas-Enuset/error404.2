@@ -27,7 +27,7 @@ en utilisat git, HTML et CSS
 	
 	*mettre le lien de cette page dans le README
 
-![lien de la page](https://nicolas-enuset.github.io/error404.2/)
+[lien de la page](https://nicolas-enuset.github.io/error404.2/)
 
 <h2>De qui</h2>
 
