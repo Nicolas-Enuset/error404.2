@@ -1,4 +1,4 @@
-# error404.2
+# error404
 
 Projet de page erreur 404
 
