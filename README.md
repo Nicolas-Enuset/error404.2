@@ -27,6 +27,8 @@ en utilisat git, HTML et CSS
 	
 	*mettre le lien de cette page dans le README
 
+[Lien de la page](file:///C:/Users/Cassandre/404.2/error404.2/index.htm)
+
 <h2>De qui</h2>
 
 Nicolas Enuset
