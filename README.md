@@ -2,7 +2,7 @@
 
 Projet de page erreur 404
 
-##Comment
+<h2>Comment</h2>
 
 en utilisat git, HTML et CSS
 
@@ -27,6 +27,6 @@ en utilisat git, HTML et CSS
 	
 	*mettre le lien de cette page dans le README
 
-##De qui
+<h2>De qui</h2>
 
 Nicolas Enuset
